@@ -70,6 +70,8 @@ button{
     flex-direction: column;
     padding-left: 150px;
     padding-right: 150px;
+    margin-top:30px ;
+    margin-bottom: 130px;
 }
 .box{
     width: 140px;
@@ -113,4 +115,22 @@ img{
 }
 .back{
     color: blue;
+}
+.quote{
+    background-color: #e5e7eb;
+    padding: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column;
+}
+.saying{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
+ .author{
+    display: flex;
+    justify-content: flex-end;
 }
