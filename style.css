@@ -134,3 +134,29 @@ img{
     display: flex;
     justify-content: flex-end;
 }
+.action{
+    padding: 100px 150px;
+}
+.content{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 10px;
+    padding: 25px 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.call{
+    border: 2px solid #e5e7eb;
+}
+.big{
+    font-size: 20px;
+}
+.footer{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 100px;
+    color: #e5e7eb;
+}
